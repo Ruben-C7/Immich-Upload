@@ -1,0 +1,7 @@
+.env
+.immich.env
+
+.DS_Store
+Thumbs.db
+
+/tmp/immich_upload_*
